@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "lastUpdated": "2026-01-02"
+  },
+  "links": [
+    {
+      "id": "FCW",
+      "name": "FurryChatWorld",
+      "url": "http://furcw.net",
+      "description": "信息聚合，什么都有",
+      "priority": 2,
+      "cover_image": "./data/link_covers/FCW.png"
+    },
+    {
+      "id": "WIKIFUR",
+      "name": "WikiFur",
+      "url": "https://zh.wikifur.com/wiki/%E9%A6%96%E9%A1%B5",
+      "description": "兽兽维基百科",
+      "priority": 2,
+      "cover_image": "./data/link_covers/FWK.png"
+    },
+    {
+      "id": "FF",
+      "name": "Furry Fusion",
+      "url": "https://www.furryfusion.net/",
+      "description": "兽聚汇总",
+      "priority": 3,
+      "cover_image": "./data/link_covers/FF.png"
+    },
+    {
+      "id": "FFC",
+      "name": "Furry Fandom Club",
+      "url": "https://furryfandomclub.cn",
+      "description": "超棒的furry爱好者聚集地",
+      "priority": 1,
+      "cover_image": "./data/link_covers/FFC.png"
+    },
+    {
+      "id": "SJH",
+      "name": "兽聚汇",
+      "url": "https://www.furries.cn",
+      "description": "属于Furry们的专属委托APP",
+      "priority": 0,
+      "cover_image": "./data/link_covers/SJH.svg"
+    },
+    {
+      "id": "FCN",
+      "name": "兽展日历",
+      "url": "https://Furrycons.cn",
+      "description": "兽展日历于 2023 年 1 月开发上线",
+      "priority": 2,
+      "cover_image": "./data/link_covers/FEC.png"
+    },
+    {
+      "id": "WBZ",
+      "name": "尾巴帧·毛毛短片",
+      "url": "https://weibazhen.com/",
+      "description": "你的兽设，值得被电影镜头记录下属于自己的故事！",
+      "priority": null,
+      "cover_image": "./data/link_covers/WBZ.png"
+    }
+  ]
+}

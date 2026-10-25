@@ -1,0 +1,745 @@
+{
+  "studios": [
+    {
+      "id": "ww_pass",
+      "name": "WW-PASS",
+      "name_zh": "万物通行",
+      "region": "China",
+      "founded_year": 2019,
+      "homepage_url": "https://www.ww-pass.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/万物通行.jpeg",
+      "priority": 20,
+      "force_color_bg": false,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "1029394464",
+      "note": "姨妈鸟！果糖！"
+    },
+    {
+      "id": "gentlefur",
+      "name": "GentleFur",
+      "name_zh": "文禽武兽",
+      "region": "China",
+      "founded_year": 2018,
+      "homepage_url": "https://gentlefur.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/GENTLEFUR.png",
+      "priority": 50,
+      "force_color_bg": false,
+      "style": [
+        "Kemono",
+        "Hybrid"
+      ],
+      "qq_group": "3418898423",
+      "note": null
+    },
+    {
+      "id": "mofumofu",
+      "name": "Mofumofu Fursuit",
+      "name_zh": "Mofumofu手作",
+      "region": "China",
+      "founded_year": 2019,
+      "homepage_url": "https://mofumofu.art",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/mofumofu手作.png",
+      "priority": 22,
+      "style": [
+        "Hybrid"
+      ],
+      "qq_group": "3418898423",
+      "note": "瑞狩！银碳！",
+      "force_color_bg": false
+    },
+    {
+      "id": "flypaws",
+      "name": "FlyPaws",
+      "name_zh": "飞兽爪屋",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://www.flypaws.cn",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/飞爪兽屋.png",
+      "priority": 50,
+      "style": [
+        "Kemono",
+        "Realistic"
+      ],
+      "qq_group": "2783371195",
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "sfursuit",
+      "name": "Sfursuit",
+      "name_zh": "十方百兽",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://www.sfursuit.cn",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/十方百兽.png",
+      "priority": 50,
+      "style": [
+        "Hybrid"
+      ],
+      "qq_group": "3983144481",
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "NLdoki",
+      "name": "Nailong doki",
+      "name_zh": "奶龙doki",
+      "region": "China",
+      "founded_year": 2023,
+      "homepage_url": "https://space.bilibili.com/3461568404654632",
+      "cover_image": "./data/studio_covers/奶龙doki.webp",
+      "link_type": "bilibili",
+      "maker_type": "individual",
+      "priority": 33,
+      "force_color_bg": false,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "2538431282",
+      "note": null
+    },
+    {
+      "id": "furmony",
+      "name": "Furmony",
+      "name_zh": "鸿萌造物",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://www.furmony.com",
+      "cover_image": "./data/studio_covers/鸿萌造物.png",
+      "link_type": "website",
+      "maker_type": "studio",
+      "priority": 21,
+      "style": [
+        "Kemono",
+        "Hybrid"
+      ],
+      "qq_group": "1909283719",
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "mingmoon",
+      "name": "M&M Fursuit",
+      "name_zh": "溟月兽装",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://mmfursuit.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/溟月兽装.jpg",
+      "priority": 50,
+      "style": [
+        "Hybrid",
+        "Realistic"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "alkaid",
+      "name": "ALKAID",
+      "name_zh": "爻光星",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://www.alkaidfur.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/爻光星.jpeg",
+      "priority": 50,
+      "style": [
+        "Kemono",
+        "Hybrid"
+      ],
+      "qq_group": "801668637",
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "meiqiu_heavy_industry",
+      "name": "Briquette Heavy Industry",
+      "name_zh": "煤球重工",
+      "region": "China",
+      "founded_year": 2019,
+      "homepage_url": "https://space.bilibili.com/17255761",
+      "cover_image": "./data/studio_covers/煤球重工.jpeg",
+      "link_type": "bilibili",
+      "maker_type": "studio",
+      "priority": 50,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "kigurumi_kagetsu",
+      "name": "Kigurumi Kagetsu",
+      "name_zh": "きぐるみ花月",
+      "region": "Japan",
+      "founded_year": 2020,
+      "homepage_url": "https://www.kigurumikagetsu.jp",
+      "cover_image": "./data/studio_covers/着ぐるみ花月.jpeg",
+      "link_type": "website",
+      "maker_type": "studio",
+      "priority": 34,
+      "style": [
+        "Toon",
+        "Kig"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "inukoubou",
+      "name": "Inu-Koubou",
+      "name_zh": "犬工房",
+      "region": "Japan",
+      "founded_year": 2017,
+      "homepage_url": "https://www.inu-koubou.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/犬工房.gif",
+      "priority": 50,
+      "style": [
+        "Kemono",
+        "Realistic"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "fureast",
+      "name": "FurEast",
+      "name_zh": "FurEast",
+      "region": "Japan",
+      "founded_year": 2017,
+      "homepage_url": "https://fureast.jimdofree.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/FurEast.png",
+      "priority": 50,
+      "style": [
+        "Toon",
+        "Hybrid"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "mochiri_works",
+      "name": "Mochiri Works",
+      "name_zh": "Mochiri Works",
+      "region": "Japan",
+      "founded_year": 2017,
+      "homepage_url": "https://twitter.com/MochiriWorks",
+      "link_type": "x",
+      "maker_type": "individual",
+      "cover_image": "./data/studio_covers/Mochiri Works.jpg",
+      "priority": 50,
+      "force_color_bg": false,
+      "style": [
+        "Kemono",
+        "Hybrid"
+      ],
+      "qq_group": null,
+      "note": null
+    },
+    {
+      "id": "k_line",
+      "name": "K-LINE",
+      "name_zh": "K-LINE",
+      "region": "Japan",
+      "founded_year": 2014,
+      "homepage_url": "https://kemono-line.jp",
+      "cover_image": "./data/studio_covers/K-line.png",
+      "link_type": "website",
+      "maker_type": "studio",
+      "priority": 22,
+      "force_color_bg": false,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": null,
+      "note": "K毛！"
+    },
+    {
+      "id": "made_fur_you",
+      "name": "Made Fur You",
+      "name_zh": "Made Fur You",
+      "region": "US",
+      "founded_year": 2011,
+      "homepage_url": "https://www.madefuryou.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/MadeFurYou.jpeg",
+      "priority": 70,
+      "force_color_bg": false,
+      "style": [
+        "Toon"
+      ],
+      "qq_group": null,
+      "note": null
+    },
+    {
+      "id": "more_fur_less",
+      "name": "More Fur Less",
+      "name_zh": "More Fur Less",
+      "region": "US",
+      "founded_year": 2013,
+      "homepage_url": "https://www.morefurless.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/morefurless.webp",
+      "priority": 70,
+      "force_color_bg": false,
+      "style": [
+        "Toon"
+      ],
+      "qq_group": null,
+      "note": null
+    },
+    {
+      "id": "clockwork_creature",
+      "name": "Clockwork Creature",
+      "name_zh": "Clockwork Creature",
+      "region": "US",
+      "founded_year": 2008,
+      "homepage_url": "https://www.clockworkcreature.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/clockwork.webp",
+      "priority": 71,
+      "style": [
+        "Realistic"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "dont_hug_cacti",
+      "name": "Don't Hug Cacti",
+      "name_zh": "Don't Hug Cacti",
+      "region": "US",
+      "founded_year": 2007,
+      "homepage_url": "https://www.donthugcacti.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/donthugcacti.png",
+      "priority": 71,
+      "force_color_bg": false,
+      "style": [
+        "Toon"
+      ],
+      "qq_group": null,
+      "note": null
+    },
+    {
+      "id": "NYYT",
+      "name": "NuanXinYeYe",
+      "name_zh": "暖心夜夜",
+      "region": "China",
+      "founded_year": 2019,
+      "homepage_url": "https://space.bilibili.com/61557944",
+      "link_type": "bilibili",
+      "maker_type": "individual",
+      "cover_image": "./data/studio_covers/奶油樱桃.webp",
+      "priority": 33,
+      "force_color_bg": false,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "1030617813",
+      "note": "奶油樱桃工作室！"
+    },
+    {
+      "id": "FURART",
+      "name": "FURART",
+      "name_zh": "FURART",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://yumufursuit.com",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/FURART.png.webp",
+      "priority": 50,
+      "force_color_bg": false,
+      "style": [
+        "Hybrid",
+        "Kig"
+      ],
+      "qq_group": null,
+      "note": null
+    },
+    {
+      "id": "GMKM",
+      "name": "GAMAKAMA",
+      "name_zh": "嘎玛珈吗",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://xhslink.com/m/31MEednWrhF",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/嘎玛珈吗.webp",
+      "priority": 50,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "YUWU",
+      "name": "YUWU",
+      "name_zh": "渔屋",
+      "region": "China",
+      "founded_year": 2020,
+      "homepage_url": "https://www.xiaohongshu.com/user/profile/618246b70000000010009bc5?xsec_token=AB36j_9BVZLoPiJbo0-EL8Mmy9wq138srBzMPCFfdmTgo=&xsec_source=pc_search",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/渔屋.webp",
+      "priority": 50,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "AJIA",
+      "name": "Atelier Amanojaku",
+      "name_zh": "天邪鬼",
+      "region": "Japan",
+      "founded_year": 2010,
+      "homepage_url": "https://atoama.jp/en/",
+      "link_type": "website",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/天邪鬼工作室.jpg",
+      "priority": 24,
+      "style": [
+        "Kemono",
+        "Kig"
+      ],
+      "qq_group": null,
+      "note": "RION！A毛！",
+      "force_color_bg": false
+    },
+    {
+      "id": "SHANHAI",
+      "name": "MtonFur",
+      "name_zh": "山海制物",
+      "region": "China",
+      "founded_year": 2025,
+      "homepage_url": "https://www.xiaohongshu.com/user/profile/680790890000000004029409?xsec_token=AB2OZKJp7lmqLw6dQh7bxgxTrijKgP6J0qhwsGCwEtYQQ=&xsec_source=pc_note",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/山海.webp",
+      "priority": 50,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "1030617813",
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "Korieio",
+      "name": "Korieio",
+      "name_zh": "Korieio_红狐",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://www.xiaohongshu.com/user/profile/6342c0a1000000001901ca8e?xsec_token=AByDMhQJ7nQwFRUGwBa1Hai5iMwFG_-mmmqHiijiJ3G18=&xsec_source=pc_search",
+      "link_type": "xiaohongshu",
+      "maker_type": "individual",
+      "cover_image": "./data/studio_covers/红狐.webp",
+      "priority": 50,
+      "style": [
+        "Kemono",
+        "Realistic"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "JC",
+      "name": "JuChuan",
+      "name_zh": "菊川",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://www.xiaohongshu.com/user/profile/61b0cc4e000000001000f249?xsec_token=AB9VL0tbGF-YDQg1kikD91jJSDYhT7RQsycQf2Bg20EAQ=&xsec_source=pc_note",
+      "link_type": "xiaohongshu",
+      "maker_type": "individual",
+      "cover_image": "./data/studio_covers/菊川.webp",
+      "priority": 50,
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": null,
+      "note": null,
+      "force_color_bg": false
+    },
+    {
+      "id": "RPS",
+      "name": "RubyProtogenStudio",
+      "name_zh": "RubyProtogenStudio",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://xhslink.com/m/4yLSaOfGKZa",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/RPS.png",
+      "priority": 32,
+      "force_color_bg": false,
+      "style": [
+        "Kemono",
+        "Toon"
+      ],
+      "qq_group": "753302342",
+      "note": "protogen,synth,primagen..."
+    },
+    {
+      "id": "OCT",
+      "name": "Out of Control Town",
+      "name_zh": "失控镇",
+      "region": "China",
+      "founded_year": 2023,
+      "homepage_url": "https://xhslink.com/m/9FBwYAnj4Js",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "cover_image": "./data/studio_covers/OCT.jpeg",
+      "priority": 32,
+      "force_color_bg": false,
+      "style": [
+        "Toon",
+        "Hybrid"
+      ],
+      "qq_group": "942406063",
+      "note": "美系>混系>日系"
+    },
+    {
+      "id": "LS",
+      "name": "LUSHAN",
+      "name_zh": "鹿山-",
+      "region": "China",
+      "founded_year": 2023,
+      "homepage_url": "https://space.bilibili.com/266122422",
+      "link_type": "bilibili",
+      "maker_type": "individual",
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "586087220",
+      "note": "汉堡熊！",
+      "cover_image": "/data/studio_covers/LS.webp",
+      "priority": 35,
+      "force_color_bg": false
+    },
+    {
+      "id": "SJWSY",
+      "name": "San Jiao Wan Shou Yuan",
+      "name_zh": "三角万兽园",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://b23.tv/LZhW7rc",
+      "link_type": "website",
+      "maker_type": "studio",
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "960454430",
+      "note": "主日系，其他也有少量",
+      "cover_image": "/data/studio_covers/SJWSY.WEBP",
+      "priority": 34,
+      "force_color_bg": false
+    },
+    {
+      "id": "YUJIAXUE",
+      "name": "yujiaxue369ye",
+      "name_zh": "雨夹雪耶",
+      "region": "China",
+      "founded_year": 2020,
+      "homepage_url": "https://www.xiaohongshu.com/user/profile/60c33984000000000100af13?xsec_token=YBOyhtFM-1oexxwnTU6d268Cmi0uuMrFrKptsI4Hwi_rE%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODZFMzY-PD02NzUyOTgwNjY0OTdFSzc8&apptime=1766331254&share_id=f9302f09eac345f9997a309f0cc36c0c&share_channel=copy_link",
+      "link_type": "xiaohongshu",
+      "maker_type": "individual",
+      "style": [
+        "Kemono",
+        "Kig"
+      ],
+      "qq_group": "822825448",
+      "note": "日系/kig/毛脸/写实",
+      "cover_image": "/data/studio_covers/YUJIAXUE.jpeg",
+      "priority": 35,
+      "force_color_bg": false
+    },
+    {
+      "id": "RST",
+      "name": "Gummy Shark",
+      "name_zh": "软糖鲨",
+      "region": "China",
+      "founded_year": 2024,
+      "homepage_url": "https://xhslink.com/m/17bP5SHySfn",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "style": [
+        "Kemono",
+        "Hybrid"
+      ],
+      "qq_group": "971740992",
+      "note": null,
+      "cover_image": "/data/studio_covers/GUMMY.png",
+      "priority": 36,
+      "force_color_bg": false
+    },
+    {
+      "id": "KRSH",
+      "name": "KR Furgence Lab",
+      "name_zh": "KR兽化实验",
+      "region": "China",
+      "founded_year": 2024,
+      "homepage_url": "https://furgence.cn",
+      "link_type": "website",
+      "maker_type": "studio",
+      "style": [
+        "Kemono",
+        "Toon"
+      ],
+      "qq_group": "1013998793",
+      "note": "日系｜混系｜美系善于多种尝试",
+      "cover_image": "/data/studio_covers/KRSH.webp",
+      "priority": 39,
+      "force_color_bg": false
+    },
+    {
+      "id": "CPMH",
+      "name": "CANGPAIFUR",
+      "name_zh": "苍牌毛化",
+      "region": "China",
+      "founded_year": 2023,
+      "homepage_url": "https://cangpaifur.com/",
+      "link_type": "website",
+      "maker_type": "studio",
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "923611256",
+      "note": "无惧挑战，用心还原！",
+      "cover_image": "/data/studio_covers/CPMH.png",
+      "priority": 39,
+      "force_color_bg": false
+    },
+    {
+      "id": "YLZS",
+      "name": "MOON FUR",
+      "name_zh": "月亮制兽",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://www.xiaohongshu.com/user/profile/5d9c81c60000000001000b9d?xsec_token=YBA_Pz40NVjnwAVDWkXZ6G8fr9y1Q-yP9LHfknhB_W6vw=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODc5REg3ND42NzUyOTgwNjY1OTg9Sko8&apptime=1767108101&share_id=30479ef12b184c14814cdf55fb27ca8d",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "style": [
+        "Kemono",
+        "Toon"
+      ],
+      "qq_group": "825677485",
+      "note": null,
+      "cover_image": "/data/studio_covers/YLZS.png",
+      "priority": 39,
+      "force_color_bg": false
+    },
+    {
+      "id": "NMSZ",
+      "name": "NuoMi FurryStudio",
+      "name_zh": "糯米兽装",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://b23.tv/Iq9oT3v",
+      "link_type": "bilibili",
+      "maker_type": "studio",
+      "style": [
+        "Kemono",
+        "Toon"
+      ],
+      "qq_group": "874077216",
+      "note": null,
+      "cover_image": "/data/studio_covers/NMSZ.png",
+      "priority": 39,
+      "force_color_bg": false
+    },
+    {
+      "id": "DFNGF",
+      "name": "DouFuNao",
+      "name_zh": "豆腐脑工坊",
+      "region": "China",
+      "founded_year": 2021,
+      "homepage_url": "https://shop151485374.taobao.com",
+      "link_type": "taobao",
+      "maker_type": "studio",
+      "style": [
+        "Kemono",
+        "Kig"
+      ],
+      "qq_group": "753368109",
+      "note": "原创兽装头骨智能兽装风扇商店",
+      "cover_image": "/data/studio_covers/DFNGF.WEBP",
+      "priority": 39,
+      "force_color_bg": false
+    },
+    {
+      "id": "ETT",
+      "name": "Eteorest Team",
+      "name_zh": "维迈晶辉工作室",
+      "region": "China",
+      "founded_year": 2024,
+      "homepage_url": "https://m.tb.cn/h.76PoO7bEACtvxfI",
+      "link_type": "taobao",
+      "maker_type": "studio",
+      "style": [
+        "Kemono"
+      ],
+      "qq_group": "1056030300",
+      "note": null,
+      "cover_image": "/data/studio_covers/ETT.webp",
+      "priority": 32,
+      "force_color_bg": false
+    },
+    {
+      "id": "FURFOG",
+      "name": "FURFOGGY",
+      "name_zh": "雾洞兽作",
+      "region": "China",
+      "founded_year": 2022,
+      "homepage_url": "https://xhslink.com/m/1hIOY9aidS0",
+      "link_type": "xiaohongshu",
+      "maker_type": "studio",
+      "style": [
+        "Kemono",
+        "Other"
+      ],
+      "qq_group": "326028357",
+      "note": "专注少年日系风格的毛毛工作室~",
+      "cover_image": "/data/studio_covers/FURFOG.png",
+      "priority": 39,
+      "force_color_bg": false
+    }
+  ]
+}

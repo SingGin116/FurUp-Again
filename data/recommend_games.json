@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "lastUpdated": "2025-12-24T01:16:05.888083+08:00"
+  },
+  "games": [
+    {
+      "name": "Changed",
+      "studio": "DragonSnow",
+      "image": "./data/recommend_game_images/Changed.png",
+      "url": "https://store.steampowered.com/app/814540/Changed/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "你被困于一个研究所，要想尽办法使你还仍然是“你自己”，坚持下去，活下去。",
+      "priority": 50,
+      "id": "game_471980b4"
+    },
+    {
+      "name": "三相奇谈",
+      "studio": "Everscape Games",
+      "image": "./data/recommend_game_images/SXQT.jpg",
+      "url": "https://store.steampowered.com/app/3084280/Threefold_Recital/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "《三相奇谈》的故事发生在一个幻想中的东方世界。数千年的繁荣时代早已落幕，人、妖怪、龙族混居的青龙城逐渐步入了道术、机关术以及失落的古代科技并存的混沌年代。黑暗在城邦角落悄然滋生，一次前所未有的危机即将爆发……",
+      "priority": 50,
+      "id": "game_9d27d8bc"
+    },
+    {
+      "name": "动物迷城",
+      "studio": "Metal Head Games",
+      "image": "./data/recommend_game_images/DWMC.jpg",
+      "url": "https://store.steampowered.com/app/1735700/_/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "你将扮演狐狸记者托马斯，在严酷的监狱中生存、探索和逃脱。努力收集证据，洗清冤屈。结交个性十足的囚犯，在多方博弈中找出生机。卧底警察黑豹鲍勃现已登场，快来体验这场精彩的CRPG冒险吧！",
+      "priority": 50,
+      "id": "game_06b114b6"
+    },
+    {
+      "name": "The Lar",
+      "studio": "MarvelSushi",
+      "image": "./data/recommend_game_images/THELAR.jpg",
+      "url": "https://store.steampowered.com/app/1084570/The_Lar/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "成为实验体，和同伴们一起从这个混乱又奇妙的地方逃离出去吧。随着探索的深入，真相也逐渐浮现...",
+      "priority": 50,
+      "id": "game_cdabfdf5"
+    },
+    {
+      "name": "水银疗养院",
+      "studio": "YiTi Games",
+      "image": "./data/recommend_game_images/SYLYY.jpg",
+      "url": "https://store.steampowered.com/app/1689080/_/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "被大雾封锁的宅邸，炼金术师和仙子的诅咒重现，危机在黑暗中蔓延。在《水银疗养院》中展开不可思议的故事，和叔侄二人组一起，来一场悬疑小说式的奇异旅程。",
+      "priority": 50,
+      "id": "game_d654fd8e"
+    },
+    {
+      "name": "罗曼圣诞探案集",
+      "studio": "SelfCrop Studio",
+      "image": "./data/recommend_game_images/LMSDTAJ.jpg",
+      "url": "https://store.steampowered.com/app/926340/_/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "又是一年圣诞，狼人侦探罗曼打算在酒馆度过一个悠闲的假期。但突如其来的暴雪把十三名旅客困在了酒馆里，几起凶杀案接连发生，他还能如愿过上一个安宁的圣诞节吗？",
+      "priority": 50,
+      "id": "game_c6365741"
+    },
+    {
+      "name": "煦风新笺",
+      "studio": "煦风社",
+      "image": "./data/recommend_game_images/XFXZ.jpg",
+      "url": "https://store.steampowered.com/app/1431900/_Once_Upon_a_Breeze/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "《煦风新笺-Once Upon a Breeze》是一款以毛茸茸世界繁华与传统并盛的岛城『风本市』里，一所颇为特立独行的私立学校『风本学院』为主舞台的兽人题材的视觉小说。同时它又不止于小说，包括个人界面、摸摸乐等更多内置小游戏都在不断更新开发中。作为一款偏向群像的游戏，您将以包括小老虎浦昼在内的众多角色的角度来感受",
+      "priority": 50,
+      "id": "game_56169232"
+    },
+    {
+      "name": "Silenced",
+      "studio": "DragonSnow",
+      "image": "./data/recommend_game_images/SILENCED.jpg",
+      "url": "https://store.steampowered.com/app/988960/Silenced/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "穿越被“魔怪”毁灭的王国，运用智慧去击败海潮般的敌人 但普通人真的做得到吗？无人歌颂的冒险真的有意义吗？ 无论如何，这场求死之路的寂静冒险已经悄然的开始了…",
+      "priority": 50,
+      "id": "game_7afa6133"
+    },
+    {
+      "name": "Illusion",
+      "studio": "Animalclaw Of Dreams",
+      "image": "./data/recommend_game_images/ILLUSION.jpg",
+      "url": "https://store.steampowered.com/app/1875610/Illusion/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "在我与伙伴们携手逃离可怕的实验室后，才察觉到这背后可能隐藏着更大的阴谋。 冒险远没有结束， 但请勿忘记，在这发生的一切仅仅只是开始。",
+      "priority": 50,
+      "id": "game_3733cd02"
+    },
+    {
+      "name": "星源遗境",
+      "studio": "兔狐喵菇工作室",
+      "image": "./data/recommend_game_images/XYYJ.jpg",
+      "url": "https://store.steampowered.com/app/2877480/_/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "创建属于你自己的毛茸茸角色，开启一段奇妙的冒险之旅！在《星源遗境》中，你将结识一群志同道合的朋友，并肩作战，共度欢乐时光！丰富多彩的PVE挑战和刺激的PVP对决，加上各种独特的生活技能，为你呈现一个无限自由的奇幻世界。快来加入游戏，开启属于你的冒险篇章吧！",
+      "priority": 50,
+      "id": "game_c4b3337a"
+    },
+    {
+      "name": "Neglected",
+      "studio": "Animalclaw Of Dreams",
+      "image": "./data/recommend_game_images/NEGLECTED.jpg",
+      "url": "https://store.steampowered.com/app/1300360/Neglected/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "是否和你的毛茸茸伙伴一起躲避危险 并且逃离这座神秘的地下设施 或者了解神秘的地下设施“背后的故事”",
+      "priority": 50,
+      "id": "game_de3a3d64"
+    },
+    {
+      "name": "Mush Dash",
+      "studio": "笨笨Bon",
+      "image": "./data/recommend_game_images/MD.jpg",
+      "url": "https://store.steampowered.com/app/3026250/Mush_Dash/?curator_clanid=41161293",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "这是一款可爱小清新画风的休闲非对称式对抗Furry Mini Game！ 没有可怕的音效，也没有恐怖的氛围；主打的就是轻松·欢乐·可爱·无厘头！ 四名玩家将扮演小动物角色，寻找逃离所需的道具，解锁逃生路线。另一名玩家将化身胶液触手怪，追捕小动物，并将抓到的小伙伴丢进胶液陷阱慢慢“胶化”~",
+      "priority": 50,
+      "id": "game_60153325"
+    },
+    {
+      "name": "异界失控",
+      "studio": "RocketPunch Games",
+      "image": "./data/recommend_game_images/YJSK.jpg",
+      "url": "https://store.steampowered.com/app/2082410/_/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "《异界失控》是一款可以走位的Roguelite战术回合制游戏。你将率领一支毛茸茸的作战小队，在横版一维战场上闪转腾挪，与神秘的异变怪物展开殊死搏斗，一步步探索超自然灾害背后的真相……",
+      "priority": 50,
+      "id": "game_f083dcec"
+    },
+    {
+      "name": "翼幻mc",
+      "studio": "维迈晶辉工作室",
+      "image": "./data/recommend_game_images/HYmc.jpeg",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=tmpa5oclHvy9nMlaGaNeZGUkhKiUjpKLqOJnmPUILOVO8rzZtF5p9Ir0VsLxT4pW&busi_data=eyJncm91cENvZGUiOiI1NTcyODg5NTIiLCJ0b2tlbiI6Ijc2TGNydzNPeXFLc2s5UDk4d211U3VGaWpqajlIY2NsRnZhazFJOTJaeHpubVZ0cTBJYUtRSHA0d21zVGczWHMiLCJ1aW4iOiIzNDU4MDgzMjQwIn0%3D&data=ayLn-NSt0KdysSwoqUICNGSuQMYGYhbrbPh0_FfSOW8_qt8Frx95RN9mGJUZBA7aBHXXlT03aaF04_ts0Z3uPg&svctype=4&tempid=h5_group_info",
+      "game_type": "minecraft",
+      "link_type": "qq",
+      "note": "翼幻mc",
+      "priority": 50,
+      "id": "game_7d91c31e"
+    },
+    {
+      "name": "犹记繁花",
+      "studio": "犹记繁花中文站",
+      "image": "./data/recommend_game_images/YJFH.jpg",
+      "url": "https://ifdian.net/a/rtfvn?tab=feed",
+      "game_type": "web",
+      "link_type": "web",
+      "note": "开启一段自我探寻之旅，踏遍过去与未来。\n「犹记繁花」(Remember the Flowers) 是一款Furry向视觉小说，讲述了一位失忆青年的故事。随着回忆浮现，他在一个新的世界渐渐苏醒，他心中唯一笃定的信念就是找到回家的方向。\n唯一困惑着他的是：这个世界如今变成什么样子了呢？",
+      "priority": 50,
+      "id": "game_faaad7a8"
+    },
+    {
+      "name": "兽猎突袭",
+      "studio": "Combat Cat Studio",
+      "image": "./data/recommend_game_images/SLTX.jpg",
+      "url": "https://store.steampowered.com/app/2827230/",
+      "game_type": "steam",
+      "link_type": "steam",
+      "note": "《兽猎突袭》是一款用虚幻5引擎打造的国产射击网游，采用动物题材，以大战场英雄技能射击为主要玩法，玩家将扮演各类动物英雄，运用武器和战术技能，与队友紧密配合，奔赴战场，赢得胜利。 这里的英雄使用自己的动物本能作为技能，战场将充满想象，丰富多彩。集合你的动物战友们，一起战斗吧。",
+      "priority": 50,
+      "id": "game_e0a1f582"
+    }
+  ]
+}

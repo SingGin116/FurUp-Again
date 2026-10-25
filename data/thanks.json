@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "lastUpdated": "2026-10-18"
+  },
+  "thanks": [
+    {
+      "id": "Bonny",
+      "name": "Bonny蓝光",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/108736539",
+      "handle": "108736539",
+      "description": "一只天角狐，FurUp万事屋开发人员",
+      "cover_image": "./data/thanks_covers/Bonny.webp",
+      "priority": 1,
+      "role": "工作室成员"
+    },
+    {
+      "id": "ACEtic",
+      "name": "艾斯ACEtic",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/109374088",
+      "handle": "109374088",
+      "description": "充电感谢",
+      "cover_image": "./data/thanks_covers/ACEtic.webp",
+      "priority": 45
+    },
+    {
+      "id": "XH",
+      "name": "尹渊",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/415385915",
+      "handle": "415385915",
+      "description": "一只小猫，FurUp万事屋成员",
+      "cover_image": "./data/thanks_covers/XH.jpg",
+      "priority": 3,
+      "role": "工作室成员"
+    },
+    {
+      "id": "ABAI",
+      "name": "Henrry_09 衔狸",
+      "platform": "bilibili",
+      "url": "https://b23.tv/CqmKce4",
+      "handle": "3537109082180216",
+      "description": "一只红色狐狸，FurUp万事屋成员",
+      "cover_image": "./data/thanks_covers/ABAI.jpg",
+      "priority": 3,
+      "role": "工作室成员"
+    },
+    {
+      "id": "XXSZH",
+      "name": "玄兮是只狐",
+      "platform": "bilibili",
+      "url": "https://b23.tv/rkw2V1O",
+      "handle": "1118292978",
+      "description": "画师模块方案建议",
+      "cover_image": "./data/thanks_covers/XXSZH.jpg",
+      "priority": 20,
+      "role": "共创"
+    },
+    {
+      "id": "AQYK",
+      "name": "安求Yk能千里",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/3537117909093165",
+      "handle": "3537117909093165",
+      "description": "共创活动支持",
+      "cover_image": "./data/thanks_covers/AQYK.webp",
+      "priority": null
+    },
+    {
+      "id": "XXCXX",
+      "name": "鑫鑫吃星星-",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/419121723",
+      "handle": "419121723",
+      "description": "充电感谢",
+      "cover_image": "./data/thanks_covers/XXCXX.webp",
+      "priority": 40,
+      "role": null
+    },
+    {
+      "id": "LS",
+      "name": "凌烁Linkstar",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/400154797",
+      "handle": "400154797",
+      "description": "充电感谢",
+      "cover_image": "/data/thanks_covers/LS.jpg",
+      "priority": 44,
+      "role": null
+    },
+    {
+      "id": "LYDS",
+      "name": "凛熠大师",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/447686876",
+      "handle": "447686876",
+      "description": "数据收集共创支持",
+      "cover_image": "/data/thanks_covers/LYDS.webp",
+      "priority": 5,
+      "role": "共创"
+    },
+    {
+      "id": "WMJHGZS",
+      "name": "幻境时空",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/646967790",
+      "handle": "646967790",
+      "description": "你爱我我爱你幻境甜蜜蜜",
+      "cover_image": "/data/thanks_covers/WMJHGZS.jpg",
+      "priority": 2,
+      "role": "工作室成员"
+    },
+    {
+      "id": "SDCOM",
+      "name": "SDCOM",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/1658099032",
+      "handle": "1658099032",
+      "description": "又一只狐狸，FurUp万事屋成员",
+      "cover_image": "/data/thanks_covers/SDCOM.webp",
+      "priority": 2,
+      "role": "工作室成员"
+    },
+    {
+      "id": "SJYGZS",
+      "name": "兽纪元工作室白灸伊",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/1323535711",
+      "handle": "1323535711",
+      "description": "充电感谢",
+      "cover_image": "/data/thanks_covers/SJYGZS.webp",
+      "priority": null,
+      "role": null
+    },
+    {
+      "id": "XHXZ",
+      "name": "协和小张",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/668779579",
+      "handle": "668779579",
+      "description": "充电感谢",
+      "cover_image": "/data/thanks_covers/XHXZ.webp",
+      "priority": null,
+      "role": null
+    },
+    {
+      "id": "WCZ",
+      "name": "雾瓷盏",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/3493287010765336",
+      "handle": "3493287010765336",
+      "description": "充电感谢",
+      "cover_image": "/data/thanks_covers/WCZ.webp",
+      "priority": null,
+      "role": null
+    },
+    {
+      "id": "JJ",
+      "name": "谲极",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/1886384314",
+      "handle": "1886384314",
+      "description": "共创活动",
+      "cover_image": "/data/thanks_covers/JJ.webp",
+      "priority": null,
+      "role": null
+    },
+    {
+      "id": "LYQL",
+      "name": "LYQL_A",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/1721054418",
+      "handle": "1721054418",
+      "description": "🧊🧊🧊",
+      "cover_image": "/data/thanks_covers/LYQL.jpg",
+      "priority": 4,
+      "role": "工作室成员"
+    },
+    {
+      "id": "XY",
+      "name": "_泫月",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/490343220",
+      "handle": "490343220",
+      "description": "充电感谢",
+      "cover_image": "/data/thanks_covers/XY.webp",
+      "priority": null,
+      "role": null
+    },
+    {
+      "id": "MYMS",
+      "name": "梦亦梦炀",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/544406108",
+      "handle": "544406108",
+      "description": "充电感谢",
+      "cover_image": "/data/thanks_covers/MYMS.webp",
+      "priority": null,
+      "role": null
+    },
+    {
+      "id": "XYSG",
+      "name": "星荧SingGin",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/3546875225442958",
+      "handle": "3546875225442958",
+      "description": "一只小龙狼，FurUp万事屋成员",
+      "cover_image": "/data/thanks_covers/XYSG.jpg",
+      "priority": 4,
+      "role": "工作室成员"
+    },
+    {
+      "id": "YKDLB",
+      "name": "一块电鹿板",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/471723540",
+      "handle": "471723540",
+      "description": "喜欢吃肉的鹿型机器人",
+      "cover_image": "/data/thanks_covers/YKDLB.webp",
+      "priority": 4,
+      "role": null
+    },
+    {
+      "id": "ZFBACXC",
+      "name": "逐凡不爱吃香菜",
+      "platform": "bilibili",
+      "url": "https://space.bilibili.com/3461566433331742",
+      "handle": "3461566433331742",
+      "description": "一只会爆无偿的透明狼，FurUp万事屋成员",
+      "cover_image": "/data/thanks_covers/ZFBACXC.webp",
+      "priority": 3,
+      "role": "工作室成员"
+    },
+    {
+      "id":"DHYDGL",
+      "name":"东海域的鬼龙",
+      "platform":"bilibili",
+      "url":"https://space.bilibili.com/3493140589709746",
+      "handle":"3493140589709746",
+      "description":"一条鱼，FurryWiki站长，传奇耐打王，特别鸣谢人员",
+      "cover_image":"/data/thanks_covers/DHYDGL.jpg",
+      "priority":4,
+      "role":null
+    }
+  ]
+}

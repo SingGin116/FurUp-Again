@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<!-- FurUp Star-Trace-Fur · Furry创作者观察面板 · Maintained by bonnylin · 2025-12-04 -->
+<html lang="zh-CN" class="scroll-smooth">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <!-- 禁止发送 Referer：B 站头像 CDN (i0/i1/i2.hdslb.com) 对非 hdslb 的 Referer 返回 403，
+       本地打开页面时 img 会全部破图；no-referrer 后所有站外图片可正常加载 -->
+  <meta name="referrer" content="no-referrer" />
+  <title>FurUp 万事屋 - Furry创作者数据观察</title>
+  <meta name="description" content="记录和观察 Furry 创作者成长的公益平台，提供创作者数据排行、新星增长分析、生日日历等功能" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="./assets/logo.jpg" />
+
+  <!-- 同步初始化主题，防止刷新时的主题闪烁 -->
+  <script>
+    (function () {
+      var THEME_KEY = 'furup-theme';
+      var theme = 'light';
+      try {
+        var stored = localStorage.getItem(THEME_KEY);
+        if (stored === 'light' || stored === 'dark') {
+          theme = stored;
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          theme = 'dark';
+        }
+      } catch (e) { }
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+
+  <script src="./vendor/vue.global.prod.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdmirror.com/npm/echarts@5/dist/echarts.min.js"></script>
+  <script>
+    if (!window.echarts) {
+      document.write('<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"><\/script>');
+    }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <script>
+    tailwind.config = {
+      darkMode: ["class", '[data-theme="dark"]'],
+      theme: {
+        fontFamily: {
+          sans: ["Inter", "system-ui", "-apple-system", "sans-serif"],
+          mono: [
+            "ui-monospace",
+            "SFMono-Regular",
+            "Menlo",
+            "Monaco",
+            "Consolas",
+            "monospace",
+          ],
+        },
+      },
+    };
+  </script>
+
+  <link rel="stylesheet" href="./assets/styles.css?v=ff631d7" />
+</head>
+
+<body>
+  <div id="app"></div>
+  <script type="module" src="./web/app.js?v=ff631d7"></script>
+</body>
+
+</html><!-- sync trigger -->

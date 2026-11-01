@@ -1,4 +1,3 @@
-![FurUp-Again](.\assets\logo2.ico)
 # FurUp Again
 ## 项目简介
 ### 本项目为FurUp26年1月存档改写而成，主要修改成员头像及简介，不包含后来的工具箱模块，还请谅解

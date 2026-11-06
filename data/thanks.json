@@ -85,7 +85,7 @@
       "url": "https://space.bilibili.com/400154797",
       "handle": "400154797",
       "description": "充电感谢",
-      "cover_image": "/data/thanks_covers/LS.jpg",
+      "cover_image": "./data/thanks_covers/LS.jpg",
       "priority": 44,
       "role": null
     },
@@ -96,7 +96,7 @@
       "url": "https://space.bilibili.com/447686876",
       "handle": "447686876",
       "description": "数据收集共创支持",
-      "cover_image": "/data/thanks_covers/LYDS.webp",
+      "cover_image": "./data/thanks_covers/LYDS.webp",
       "priority": 5,
       "role": "共创"
     },
@@ -107,7 +107,7 @@
       "url": "https://space.bilibili.com/646967790",
       "handle": "646967790",
       "description": "你爱我我爱你幻境甜蜜蜜",
-      "cover_image": "/data/thanks_covers/WMJHGZS.jpg",
+      "cover_image": "./data/thanks_covers/WMJHGZS.jpg",
       "priority": 2,
       "role": "工作室成员"
     },
@@ -118,7 +118,7 @@
       "url": "https://space.bilibili.com/1658099032",
       "handle": "1658099032",
       "description": "又一只狐狸，FurUp万事屋成员",
-      "cover_image": "/data/thanks_covers/SDCOM.webp",
+      "cover_image": "./data/thanks_covers/SDCOM.webp",
       "priority": 2,
       "role": "工作室成员"
     },
@@ -129,7 +129,7 @@
       "url": "https://space.bilibili.com/1323535711",
       "handle": "1323535711",
       "description": "充电感谢",
-      "cover_image": "/data/thanks_covers/SJYGZS.webp",
+      "cover_image": "./data/thanks_covers/SJYGZS.webp",
       "priority": null,
       "role": null
     },
@@ -140,7 +140,7 @@
       "url": "https://space.bilibili.com/668779579",
       "handle": "668779579",
       "description": "充电感谢",
-      "cover_image": "/data/thanks_covers/XHXZ.webp",
+      "cover_image": "./data/thanks_covers/XHXZ.webp",
       "priority": null,
       "role": null
     },
@@ -151,7 +151,7 @@
       "url": "https://space.bilibili.com/3493287010765336",
       "handle": "3493287010765336",
       "description": "充电感谢",
-      "cover_image": "/data/thanks_covers/WCZ.webp",
+      "cover_image": "./data/thanks_covers/WCZ.webp",
       "priority": null,
       "role": null
     },
@@ -162,7 +162,7 @@
       "url": "https://space.bilibili.com/1886384314",
       "handle": "1886384314",
       "description": "共创活动",
-      "cover_image": "/data/thanks_covers/JJ.webp",
+      "cover_image": "./data/thanks_covers/JJ.webp",
       "priority": null,
       "role": null
     },
@@ -173,7 +173,7 @@
       "url": "https://space.bilibili.com/1721054418",
       "handle": "1721054418",
       "description": "🧊🧊🧊",
-      "cover_image": "/data/thanks_covers/LYQL.jpg",
+      "cover_image": "./data/thanks_covers/LYQL.jpg",
       "priority": 4,
       "role": "工作室成员"
     },
@@ -184,7 +184,7 @@
       "url": "https://space.bilibili.com/490343220",
       "handle": "490343220",
       "description": "充电感谢",
-      "cover_image": "/data/thanks_covers/XY.webp",
+      "cover_image": "./data/thanks_covers/XY.webp",
       "priority": null,
       "role": null
     },
@@ -195,7 +195,7 @@
       "url": "https://space.bilibili.com/544406108",
       "handle": "544406108",
       "description": "充电感谢",
-      "cover_image": "/data/thanks_covers/MYMS.webp",
+      "cover_image": "./data/thanks_covers/MYMS.webp",
       "priority": null,
       "role": null
     },
@@ -206,7 +206,7 @@
       "url": "https://space.bilibili.com/3546875225442958",
       "handle": "3546875225442958",
       "description": "一只小龙狼，FurUp万事屋成员",
-      "cover_image": "/data/thanks_covers/XYSG.jpg",
+      "cover_image": "./data/thanks_covers/XYSG.jpg",
       "priority": 4,
       "role": "工作室成员"
     },
@@ -217,7 +217,7 @@
       "url": "https://space.bilibili.com/471723540",
       "handle": "471723540",
       "description": "喜欢吃肉的鹿型机器人",
-      "cover_image": "/data/thanks_covers/YKDLB.webp",
+      "cover_image": "./data/thanks_covers/YKDLB.webp",
       "priority": 4,
       "role": null
     },
@@ -228,7 +228,7 @@
       "url": "https://space.bilibili.com/3461566433331742",
       "handle": "3461566433331742",
       "description": "一只会爆无偿的透明狼，FurUp万事屋成员",
-      "cover_image": "/data/thanks_covers/ZFBACXC.webp",
+      "cover_image": "./data/thanks_covers/ZFBACXC.webp",
       "priority": 3,
       "role": "工作室成员"
     },
@@ -239,7 +239,7 @@
       "url":"https://space.bilibili.com/3493140589709746",
       "handle":"3493140589709746",
       "description":"一条鱼，FurryWiki站长，传奇耐打王，特别鸣谢人员",
-      "cover_image":"/data/thanks_covers/DHYDGL.jpg",
+      "cover_image":"./data/thanks_covers/DHYDGL.jpg",
       "priority":4,
       "role":null
     }

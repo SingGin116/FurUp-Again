@@ -21,7 +21,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/716978?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "这里阿洛！欢迎来玩！",
-      "avatar": "/data/artist_avatars/KSYAL.jpg",
+      "avatar": "./data/artist_avatars/KSYAL.jpg",
       "priority": null,
       "creator_type": "画师"
     },
@@ -32,7 +32,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/1137861?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "偶尔掉落橱窗",
-      "avatar": "/data/artist_avatars/KZhiko.png",
+      "avatar": "./data/artist_avatars/KZhiko.png",
       "priority": null,
       "creator_type": "画师"
     },
@@ -43,7 +43,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/1151059?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "欢迎光临",
-      "avatar": "/data/artist_avatars/YYF.jpg",
+      "avatar": "./data/artist_avatars/YYF.jpg",
       "priority": null,
       "creator_type": "画师"
     },
@@ -54,7 +54,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/1740267?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "这里时差/中元冥",
-      "avatar": "/data/artist_avatars/ZYM.jpg",
+      "avatar": "./data/artist_avatars/ZYM.jpg",
       "priority": null,
       "creator_type": "画师"
     },
@@ -65,7 +65,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/1260825?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "固定每月月底上橱窗～",
-      "avatar": "/data/artist_avatars/BQLBJT.jpg",
+      "avatar": "./data/artist_avatars/BQLBJT.jpg",
       "priority": null,
       "creator_type": "画师"
     },
@@ -76,7 +76,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/699706?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "谢谢喜欢和支持！！",
-      "avatar": "/data/artist_avatars/SGZ.jpg",
+      "avatar": "./data/artist_avatars/SGZ.jpg",
       "priority": null,
       "creator_type": "画师"
     },
@@ -87,7 +87,7 @@
       "platform_url": "https://space.bilibili.com/323334309",
       "qq_group": null,
       "note": "：3很高兴认识你！我是啊毛！",
-      "avatar": "/data/artist_avatars/AMAO.webp",
+      "avatar": "./data/artist_avatars/AMAO.webp",
       "priority": null,
       "creator_type": "画师"
     },
@@ -98,7 +98,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/1702057?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "偏好：可爱的小Q",
-      "avatar": "/data/artist_avatars/KOUKOU.jpg",
+      "avatar": "./data/artist_avatars/KOUKOU.jpg",
       "priority": null,
       "creator_type": "画师"
     },
@@ -109,7 +109,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/792704?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": null,
       "note": "26年开稿，目前掉落橱窗和加急",
-      "avatar": "/data/artist_avatars/MLS.jpg",
+      "avatar": "./data/artist_avatars/MLS.jpg",
       "priority": 49,
       "creator_type": "画师"
     },
@@ -120,7 +120,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/1140176?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": "456625219",
       "note": "偶尔橱窗出没中",
-      "avatar": "/data/artist_avatars/WDSZL.jpg",
+      "avatar": "./data/artist_avatars/WDSZL.jpg",
       "priority": 49,
       "creator_type": "画师"
     },
@@ -131,7 +131,7 @@
       "platform_url": "https://space.bilibili.com/473961857",
       "qq_group": "1783760715",
       "note": "嗨咯这里是药刀，全网同名",
-      "avatar": "/data/artist_avatars/YDE.webp",
+      "avatar": "./data/artist_avatars/YDE.webp",
       "priority": 48,
       "creator_type": "画师"
     },
@@ -142,7 +142,7 @@
       "platform_url": "https://b23.tv/jIInY50",
       "qq_group": "893749773",
       "note": "QQ：3192906365",
-      "avatar": "/data/artist_avatars/THXJ.webp",
+      "avatar": "./data/artist_avatars/THXJ.webp",
       "priority": null,
       "creator_type": "画师"
     },
@@ -153,7 +153,7 @@
       "platform_url": "https://www.mihuashi.com/profiles/4833?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
       "qq_group": "948485268",
       "note": "尽量会在每周5更新绘画教程视频唷。",
-      "avatar": "/data/artist_avatars/MMJ.webp",
+      "avatar": "./data/artist_avatars/MMJ.webp",
       "priority": 48,
       "creator_type": "画师"
     },
@@ -165,7 +165,7 @@
       "platform_url": "https://space.bilibili.com/485822",
       "qq_group": "405596349",
       "note": "Steam游戏《Changed》音乐",
-      "avatar": "/data/artist_avatars/SZ.webp",
+      "avatar": "./data/artist_avatars/SZ.webp",
       "priority": 15
     },
     {
@@ -176,7 +176,7 @@
       "platform_url": "https://space.bilibili.com/2930392",
       "qq_group": null,
       "note": "FURRY独立音乐人",
-      "avatar": "/data/artist_avatars/TL.webp",
+      "avatar": "./data/artist_avatars/TL.webp",
       "priority": null
     },
     {
@@ -187,7 +187,7 @@
       "platform_url": "https://space.bilibili.com/7177720",
       "qq_group": null,
       "note": "我叫原色龙，业余音乐人/摄影",
-      "avatar": "/data/artist_avatars/YSL.webp",
+      "avatar": "./data/artist_avatars/YSL.webp",
       "priority": null
     },
     {
@@ -198,7 +198,7 @@
       "platform_url": "https://space.bilibili.com/521621431",
       "qq_group": null,
       "note": "网易云:有股鱼腥味owo",
-      "avatar": "/data/artist_avatars/YGYXW.webp",
+      "avatar": "./data/artist_avatars/YGYXW.webp",
       "priority": null
     },
     {
@@ -209,7 +209,7 @@
       "platform_url": "https://space.bilibili.com/6795",
       "qq_group": null,
       "note": "三相奇谈的剧本作者",
-      "avatar": "/data/artist_avatars/zohardog.webp",
+      "avatar": "./data/artist_avatars/zohardog.webp",
       "priority": null
     },
     {
@@ -220,7 +220,7 @@
       "platform_url": "https://space.bilibili.com/753832",
       "qq_group": null,
       "note": "Changed游戏开发",
-      "avatar": "/data/artist_avatars/XZL.webp",
+      "avatar": "./data/artist_avatars/XZL.webp",
       "priority": 48
     },
     {
@@ -231,7 +231,7 @@
       "platform_url": "https://space.bilibili.com/128097",
       "qq_group": null,
       "note": "做游戏的小黄狗",
-      "avatar": "/data/artist_avatars/BL.webp",
+      "avatar": "./data/artist_avatars/BL.webp",
       "priority": null
     },
     {
@@ -242,7 +242,7 @@
       "platform_url": "https://space.bilibili.com/17684767",
       "qq_group": null,
       "note": "精神状态很好的画画人",
-      "avatar": "/data/artist_avatars/NYYY.webp",
+      "avatar": "./data/artist_avatars/NYYY.webp",
       "priority": null
     },
     {
@@ -253,7 +253,7 @@
       "platform_url": "https://space.bilibili.com/454794521",
       "qq_group": "320333410",
       "note": "泥嚎！愿意来粉丝群玩玩嘛",
-      "avatar": "/data/artist_avatars/YLTJ.webp",
+      "avatar": "./data/artist_avatars/YLTJ.webp",
       "priority": null
     },
     {
@@ -264,7 +264,7 @@
       "platform_url": "https://space.bilibili.com/13703620",
       "qq_group": "304002393",
       "note": "这里是努尔，l2d委托",
-      "avatar": "/data/artist_avatars/MNE.webp",
+      "avatar": "./data/artist_avatars/MNE.webp",
       "priority": null
     },
     {
@@ -275,7 +275,7 @@
       "platform_url": "https://space.bilibili.com/1939180",
       "qq_group": "641268874",
       "note": "live2d一条龙详细估价",
-      "avatar": "/data/artist_avatars/RSOWO.webp",
+      "avatar": "./data/artist_avatars/RSOWO.webp",
       "priority": null
     },
     {
@@ -286,7 +286,7 @@
       "platform_url": "https://space.bilibili.com/23234151",
       "qq_group": "1134344696",
       "note": "这里是夕白破画画的一枚。",
-      "avatar": "/data/artist_avatars/XBZXTR.webp",
+      "avatar": "./data/artist_avatars/XBZXTR.webp",
       "priority": null
     },
     {
@@ -297,7 +297,7 @@
       "platform_url": "https://space.bilibili.com/220138993",
       "qq_group": "858096328",
       "note": "恭喜你找到宝藏，全能的我们嘿嘿～",
-      "avatar": "/data/artist_avatars/HCYY.webp",
+      "avatar": "./data/artist_avatars/HCYY.webp",
       "priority": null
     },
     {
@@ -308,7 +308,7 @@
       "platform_url": "https://space.bilibili.com/1154601644",
       "qq_group": null,
       "note": "YSM模型委托预热中",
-      "avatar": "/data/artist_avatars/ELL.webp",
+      "avatar": "./data/artist_avatars/ELL.webp",
       "priority": null
     },
     {
@@ -319,7 +319,7 @@
       "platform_url": "https://space.bilibili.com/347541617",
       "qq_group": "1079856772",
       "note": "约稿请加q裙",
-      "avatar": "/data/artist_avatars/LBS.webp",
+      "avatar": "./data/artist_avatars/LBS.webp",
       "priority": null
     },
     {
@@ -330,7 +330,7 @@
       "platform_url": "https://space.bilibili.com/393187413",
       "qq_group": "385430621",
       "note": "是3d建模师，永不翻车",
-      "avatar": "/data/artist_avatars/MMN.webp",
+      "avatar": "./data/artist_avatars/MMN.webp",
       "priority": null
     }
   ]

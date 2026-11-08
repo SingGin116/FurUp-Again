@@ -427,7 +427,7 @@
       "district": null,
       "qq_group": "806810870",
       "website": "https://space.bilibili.com/1701300471",
-      "logo": "/data/meetup_logos/CYST.webp",
+      "logo": "./data/meetup_logos/CYST.webp",
       "force_color_bg": false,
       "link_type": "bilibili"
     },

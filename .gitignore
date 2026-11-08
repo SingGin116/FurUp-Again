@@ -1,0 +1,10 @@
+# 爬虫回填前的自动备份（体积大，不入库）
+data/users.json.bak-*
+
+# 本地工作目录（WorkBuddy 项目记忆等）
+.workbuddy/
+
+# 系统缓存文件
+Thumbs.db
+desktop.ini
+.DS_Store

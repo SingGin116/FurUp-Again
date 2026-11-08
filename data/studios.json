@@ -550,7 +550,7 @@
       ],
       "qq_group": "586087220",
       "note": "汉堡熊！",
-      "cover_image": "/data/studio_covers/LS.webp",
+      "cover_image": "./data/studio_covers/LS.webp",
       "priority": 35,
       "force_color_bg": false
     },
@@ -568,7 +568,7 @@
       ],
       "qq_group": "960454430",
       "note": "主日系，其他也有少量",
-      "cover_image": "/data/studio_covers/SJWSY.WEBP",
+      "cover_image": "./data/studio_covers/SJWSY.WEBP",
       "priority": 34,
       "force_color_bg": false
     },
@@ -587,7 +587,7 @@
       ],
       "qq_group": "822825448",
       "note": "日系/kig/毛脸/写实",
-      "cover_image": "/data/studio_covers/YUJIAXUE.jpeg",
+      "cover_image": "./data/studio_covers/YUJIAXUE.jpeg",
       "priority": 35,
       "force_color_bg": false
     },
@@ -606,7 +606,7 @@
       ],
       "qq_group": "971740992",
       "note": null,
-      "cover_image": "/data/studio_covers/GUMMY.png",
+      "cover_image": "./data/studio_covers/GUMMY.png",
       "priority": 36,
       "force_color_bg": false
     },
@@ -625,7 +625,7 @@
       ],
       "qq_group": "1013998793",
       "note": "日系｜混系｜美系善于多种尝试",
-      "cover_image": "/data/studio_covers/KRSH.webp",
+      "cover_image": "./data/studio_covers/KRSH.webp",
       "priority": 39,
       "force_color_bg": false
     },
@@ -643,7 +643,7 @@
       ],
       "qq_group": "923611256",
       "note": "无惧挑战，用心还原！",
-      "cover_image": "/data/studio_covers/CPMH.png",
+      "cover_image": "./data/studio_covers/CPMH.png",
       "priority": 39,
       "force_color_bg": false
     },
@@ -662,7 +662,7 @@
       ],
       "qq_group": "825677485",
       "note": null,
-      "cover_image": "/data/studio_covers/YLZS.png",
+      "cover_image": "./data/studio_covers/YLZS.png",
       "priority": 39,
       "force_color_bg": false
     },
@@ -681,7 +681,7 @@
       ],
       "qq_group": "874077216",
       "note": null,
-      "cover_image": "/data/studio_covers/NMSZ.png",
+      "cover_image": "./data/studio_covers/NMSZ.png",
       "priority": 39,
       "force_color_bg": false
     },
@@ -700,7 +700,7 @@
       ],
       "qq_group": "753368109",
       "note": "原创兽装头骨智能兽装风扇商店",
-      "cover_image": "/data/studio_covers/DFNGF.WEBP",
+      "cover_image": "./data/studio_covers/DFNGF.WEBP",
       "priority": 39,
       "force_color_bg": false
     },
@@ -718,7 +718,7 @@
       ],
       "qq_group": "1056030300",
       "note": null,
-      "cover_image": "/data/studio_covers/ETT.webp",
+      "cover_image": "./data/studio_covers/ETT.webp",
       "priority": 32,
       "force_color_bg": false
     },
@@ -737,7 +737,7 @@
       ],
       "qq_group": "326028357",
       "note": "专注少年日系风格的毛毛工作室~",
-      "cover_image": "/data/studio_covers/FURFOG.png",
+      "cover_image": "./data/studio_covers/FURFOG.png",
       "priority": 39,
       "force_color_bg": false
     }

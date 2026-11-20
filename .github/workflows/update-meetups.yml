@@ -1,0 +1,42 @@
+name: 更新兽聚数据
+
+# 每天北京时间 09:00 从 FEC·兽展日历同步兽聚信息到 data/meetups.json
+on:
+  schedule:
+    - cron: "0 1 * * *"   # UTC 01:00 = 北京时间 09:00
+  workflow_dispatch:       # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-meetups
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装可选的图片压缩依赖
+        run: pip install pillow
+
+      - name: 拉取并合并兽聚数据
+        run: python scripts/update_meetups.py
+
+      - name: 有变更才提交推送
+        run: |
+          git config user.name "meetup-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/meetups.json data/meetups_cache.json data/meetup_logos
+          if git diff --cached --quiet; then
+            echo "兽聚数据无变化，跳过提交"
+          else
+            git commit -m "兽聚数据自动更新 $(TZ=Asia/Shanghai date +%F)"
+            git push
+          fi

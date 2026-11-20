@@ -27,7 +27,8 @@ jobs:
         run: pip install pillow
 
       - name: 拉取并合并兽聚数据
-        run: python scripts/update_meetups.py
+        # --enrich 只抓缓存里没有的新活动详情页（补主办方名/QQ群），老活动直接读缓存
+        run: python scripts/update_meetups.py --enrich
 
       - name: 有变更才提交推送
         run: |

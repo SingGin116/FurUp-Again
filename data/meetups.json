@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-23",
+    "lastUpdated": "2026-11-24",
     "source": "FEC·兽展日历 (furrycons.cn) 自动同步"
   },
   "meetups": [
@@ -677,6 +677,22 @@
       "source": "fec"
     },
     {
+      "id": "uxjl6fw",
+      "name": "甬兽聚",
+      "theme": "Cheers！福瑞！",
+      "date": "2026-12-31",
+      "duration_days": 2,
+      "city": "宁波",
+      "province": "浙江",
+      "qq_group": "818742688",
+      "logo": "./data/meetup_logos/uxjl6fw.webp",
+      "country": "China",
+      "district": null,
+      "website": "https://www.furrycons.cn/event/uxjl6fw",
+      "place": "全季酒店(宁波东部新城宁波中心店)",
+      "source": "fec"
+    },
+    {
       "id": "kzoc20r",
       "name": "FurryGooo",
       "theme": "星回启元",
@@ -802,6 +818,22 @@
       "district": null,
       "website": "https://www.furrycons.cn/event/4afi7hu",
       "place": "长白天地度假酒店",
+      "source": "fec"
+    },
+    {
+      "id": "esqxnh0",
+      "name": "野狼祭",
+      "theme": "第一届",
+      "date": "2027-01-16",
+      "duration_days": 1,
+      "city": "台北",
+      "province": "台湾",
+      "qq_group": null,
+      "logo": "./data/meetup_logos/esqxnh0.webp",
+      "country": "China",
+      "district": null,
+      "website": "https://www.furrycons.cn/event/esqxnh0",
+      "place": "龍山文創基地",
       "source": "fec"
     },
     {
@@ -1005,7 +1037,7 @@
       "city": "温州",
       "province": "浙江",
       "qq_group": "1044863265",
-      "logo": null,
+      "logo": "./data/meetup_logos/y1iil0t.webp",
       "country": "China",
       "district": null,
       "website": "https://www.furrycons.cn/event/y1iil0t",
@@ -1042,6 +1074,22 @@
       "district": null,
       "website": "https://www.furrycons.cn/event/ilo677d",
       "place": "温岭国际大酒店",
+      "source": "fec"
+    },
+    {
+      "id": "91kr7ce",
+      "name": "兽友汇",
+      "theme": "明日计划",
+      "date": "2027-02-12",
+      "duration_days": 3,
+      "city": "绵阳",
+      "province": "四川",
+      "qq_group": "1125638391",
+      "logo": "./data/meetup_logos/91kr7ce.webp",
+      "country": "China",
+      "district": null,
+      "website": "https://www.furrycons.cn/event/91kr7ce",
+      "place": "绵阳富临桃花岛酒店",
       "source": "fec"
     },
     {
@@ -1170,6 +1218,38 @@
       "district": null,
       "website": "https://www.furrycons.cn/event/66enszh",
       "place": "丰邑喜来登大饭店",
+      "source": "fec"
+    },
+    {
+      "id": "71bsamx",
+      "name": "落茜聚",
+      "theme": "龙族试炼场",
+      "date": "2027-07-16",
+      "duration_days": 4,
+      "city": "成都",
+      "province": "四川",
+      "qq_group": "976137749",
+      "logo": null,
+      "country": "China",
+      "district": null,
+      "website": "https://www.furrycons.cn/event/71bsamx",
+      "place": "成都保利公园皇冠假日酒店",
+      "source": "fec"
+    },
+    {
+      "id": "lycd6aw",
+      "name": "雾绒卷宗",
+      "theme": "玫瑰迷案",
+      "date": "2027-07-21",
+      "duration_days": 4,
+      "city": null,
+      "province": "",
+      "qq_group": "614169260",
+      "logo": "./data/meetup_logos/lycd6aw.webp",
+      "country": "China",
+      "district": null,
+      "website": "https://www.furrycons.cn/event/lycd6aw",
+      "place": null,
       "source": "fec"
     },
     {

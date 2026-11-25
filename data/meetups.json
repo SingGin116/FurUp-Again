@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-24",
+    "lastUpdated": "2026-11-25",
     "source": "FEC·兽展日历 (furrycons.cn) 自动同步"
   },
   "meetups": [
@@ -610,6 +610,22 @@
       "district": null,
       "website": "https://www.furrycons.cn/event/8da22p8",
       "place": "长沙德盛道夫酒店",
+      "source": "fec"
+    },
+    {
+      "id": "v967y89",
+      "name": "泉兽行",
+      "theme": "秋收冬藏",
+      "date": "2026-11-20",
+      "duration_days": 3,
+      "city": "济南",
+      "province": "山东",
+      "qq_group": "495192174",
+      "logo": "./data/meetup_logos/v967y89.webp",
+      "country": "China",
+      "district": null,
+      "website": "https://www.furrycons.cn/event/v967y89",
+      "place": "宝藏Treasure",
       "source": "fec"
     },
     {

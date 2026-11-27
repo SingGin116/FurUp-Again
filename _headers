@@ -1,0 +1,9 @@
+# Cloudflare Pages 缓存规则（GitHub Pages / EdgeOne 会忽略此文件，无害）
+# 只给内容永不变化的第三方库和字体设长期缓存。
+# data/*.json 刻意不写规则：users.json 有 11.7MB、meetups.json 每天 09:00 会更新，
+# 交给平台默认的 ETag 协商缓存（304 复用）比一刀切 no-cache 更快也更安全。
+/vendor/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable

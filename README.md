@@ -102,12 +102,46 @@ Tailwind、ECharts 和字体使用原有外部 CDN，因此完整界面与图表
 顺带发现 macOS 的 Finder 看不见 `.workbuddy`（点开头的文件夹它一概藏起来，FAT32 上还没法取消隐藏），于是做了个不藏起来的 `WORKSPACE-MEMORY` 镜像，里面还塞了张"接手指引"。
 另外写了个 `sync_public.py`：开工先 `check`，看两边进度对不对得上；对不上就 `pull`，干完活 `push`。比的是文件内容哈希，不是修改时间 —— FAT32 的时间戳只有 2 秒精度还不带时区，Windows 和 macOS 能差出 8 小时，看时间早晚得出事。
 
+### 2026-11-27 ｜ 给网站换了个不用等 CDN 的家
+
+GitHub Pages 在国内慢得让人想砸键盘，查了一圈发现"免费 + 免备案 + 国内快 + 推代码自动更新"这四条能同时满足的没几家，最后决定**双线并行**：腾讯云 EdgeOne Pages 走国内，Cloudflare Pages 走海外，两个都直接连同一个 GitHub 仓库，push 一下两边一起刷新，原来的 GitHub Pages 留着当备用。不用买域名、不用备案，用平台送的二级域名就行。
+
+不过换平台只解决"主机在哪"，真正拖慢首屏的是 `index.html` 里挂的四个外链：Tailwind 的 Play CDN、ECharts 的主源和备用源、还有 Google Fonts 的 Inter 字体。Google Fonts 在国内基本是必挂的，浏览器会一直等它等到超时；ECharts 那两个源也时好时坏。干脆全搬进仓库自己托管：`vendor/` 里塞了 Tailwind 和 ECharts，`assets/fonts/` 里放了 Inter 的 latin 子集（48 KB 的变量字体，一个文件覆盖 400~700 四个字重），样式表里写条 `@font-face` 就完事。中文不在这套字体里，还是交给系统字体，跟原来一模一样。
+
+有个小插曲：第一次下 ECharts 只拿到 343 KB，一看不对——完整版明明是 1 MB，curl 超时把文件截断了。加了重试重新拉，拿 `node --check` 验了语法才敢用。改完还用无头 Edge 真跑了一遍，卡片、头像、数据都在，Tailwind 本地化之后照样能编译出样式，才算放心。
+
+顺手给 Cloudflare 加了 `_headers`：第三方库和字体设一年强缓存，数据 JSON 一个字都不写规则——`users.json` 有 11.7 MB 而且 `meetups.json` 每天早上会自动更新，一刀切禁缓存反而更慢，交给平台默认的协商缓存（304 复用）最稳。
+
 ### 这几天的总结
 
 - 数据从"一半是零"变成"七成九有播放量"。
 - 三次破图，两次是文件名骗人，一次是路径不对。
 - 最大的收获不是跑了多少数据，是学会了删之前先看一眼图。
 - 这些总结是AI写的，这AI开智了还是个智人，会写总结了（这句是人写的）。
+---
+
+## 部署（三条线，同一个 GitHub 仓库）
+
+站点是**纯静态**：没有 `package.json`、没有构建步骤、资源全用相对路径 `./`。三个平台都直接把仓库根目录当站点根发布，push 到 `main` 就会自动重新部署。
+
+| 线路 | 地址形态 | 用途 | 要不要备案 |
+|---|---|---|---|
+| 腾讯云 EdgeOne Pages | `xxx.edgeone.app` | 国内主用 | 不用（选「全球可用区 / 不含中国内地」，用平台送的域名） |
+| Cloudflare Pages | `xxx.pages.dev` | 海外 / 备用 | 不用 |
+| GitHub Pages | `singgin116.github.io/FurUp-Again/` | 老地址，留着兜底 | 不用 |
+
+**平台侧配置要点**（两个平台都一样，照填即可）：
+
+- 框架 / Framework preset：**None / 不选择框架**（千万别让它自动识别，11-01 那次就是被当成 Vue 项目去找 `package.json` 才挂的）
+- 构建命令 / Build command：**留空**
+- 输出目录 / Build output directory：**`.` 或留空**（仓库根，`index.html` 就在根）
+- 部署分支：`main`
+- 绑定 GitHub 仓库时只授权这一个仓库就够了
+
+**关于每天 09:00 的兽聚自动更新**：`.github/workflows/update-meetups.yml` 会提交新的 `meetups.json`，这次 push 会触发两个平台重新部署。如果发现机器人提交没带动（有些平台对 `GITHUB_TOKEN` 触发的 push 会被防循环机制挡掉），把 workflow 里的提交改成 PAT，或在平台加一个 Deploy Hook 补一刀即可，仓库侧不用改。
+
+**关于缓存**：根目录 `_headers` 只对 Cloudflare Pages 生效（GitHub Pages 和 EdgeOne 会忽略，无害）。只给 `vendor/` 和 `assets/fonts/` 设一年强缓存；`data/*.json` 刻意不写规则，走平台默认的 ETag 协商缓存，避免 11.7 MB 的 `users.json` 被反复全量下载，也避免兽聚数据更新后看不到新内容。
+
 ---
 
 ## 数据说明

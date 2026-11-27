@@ -31,18 +31,11 @@
     })();
   </script>
 
+  <!-- 前端库全部自托管：不再等外部 CDN，国内首屏和离线打开都不受影响 -->
   <script src="./vendor/vue.global.prod.js"></script>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdmirror.com/npm/echarts@5/dist/echarts.min.js"></script>
-  <script>
-    if (!window.echarts) {
-      document.write('<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"><\/script>');
-    }
-  </script>
-
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="./vendor/tailwindcss.js"></script>
+  <script src="./vendor/echarts.min.js"></script>
+  <!-- Inter 字体自托管在 assets/fonts/，@font-face 见 assets/styles.css 顶部 -->
 
   <script>
     tailwind.config = {
@@ -63,7 +56,7 @@
     };
   </script>
 
-  <link rel="stylesheet" href="./assets/styles.css?v=ff631d7" />
+  <link rel="stylesheet" href="./assets/styles.css?v=20261127a" />
 </head>
 
 <body>
